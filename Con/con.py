@@ -4,6 +4,7 @@ import os
 import sys
 from time import sleep as timeout
 from core.con import *
+os.system('figlet ...Welcome...')
 os.system('apt-get install git')
 os.system('apt-get install figlet')
 def main():
