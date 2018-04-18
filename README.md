@@ -1,5 +1,5 @@
 # con
-it's my first script,so if you have a problem contect me on facebook:fahad akash
+it's my first script,so if you have a problem contact me on facebook:fahad akash
 or subscribe my YouTube channel : Fahad Akash
 # Insttaling
 open your terminal.
