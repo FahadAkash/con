@@ -18,7 +18,7 @@ choose your favourite dir.and type
 ``
 apt-get install git
 ``
-
+``
 `apt-get install python2
 ``
 
