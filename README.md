@@ -13,7 +13,7 @@ or subscribe my YouTube channel : Fahad Akash
 Open your terminal.
 
 
-choose your favourite dir.and type
+Choose your favourite dir and type
 
 ``
 apt-get install git
