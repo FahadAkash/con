@@ -26,9 +26,8 @@ apt-get install git
 git clone https://github.com/FahadAkash/con.git
 ``
 
-``
+
 goto the con.py
-``
 
 ``
 cd con
