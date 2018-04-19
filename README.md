@@ -4,7 +4,8 @@ it's my first script,so if you have a problem contact me on facebook:fahad akash
 or subscribe my YouTube channel : Fahad Akash
 
 ### Requirements
-• Python 2.x
+
+``• Python 2.x ``
 
 # Insttaling
 
@@ -16,23 +17,28 @@ choose your favourite dir.and type
 
 ``
 apt-get install git
+``
 
 ``
 apt-get install python2
+
+``
 
 ``
 git clone https://github.com/FahadAkash/con.git
 ``
 
 goto the con.py
+
+``
 cd con
-
-``
-and type 
 ``
 
+and type
+
+``
 python con.py
 
 ``
+
 And Enjoy
-``
