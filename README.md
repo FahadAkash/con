@@ -9,9 +9,9 @@ or subscribe my YouTube channel : Fahad Akash
 
 # Insttaling
 
-``
-open your terminal.
-``
+
+Open your terminal.
+
 
 choose your favourite dir.and type
 
