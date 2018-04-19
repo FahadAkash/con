@@ -35,7 +35,7 @@ ___________________________________________________________________________
 """
 backtomenu_banner = """
   [99] Back to main menu
-  [00] Exit the Lazymux
+  [00] Exit the con
 """
 def restart_program():
 	python = sys.executable
