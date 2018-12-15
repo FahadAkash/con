@@ -7,3 +7,4 @@ echo "[✔] Installing ...";
  chmod +x con;
  sudo cp con /usr/bin/;
  rm con;
+ echo "Install Complete! simply run any Terminal: con"
