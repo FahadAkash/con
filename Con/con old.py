@@ -20,7 +20,7 @@ def main():
 	print "   [05] ==> Web Hacking"
 	print "   [06] ==> Exploitation Tools"
 	print "   [07] ==> Sniffing & Spoofing"
-	print "   [08] ==> Termux User's"
+	print "   [08] ==> Some Tools"
         print "   [09] ==> Wifi Hacking Tools(comming soon)"
         print "   [10] ==> My Own Tools\n"
 	print "   [11] Exit the Con\n"
